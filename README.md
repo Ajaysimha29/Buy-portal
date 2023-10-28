@@ -13,3 +13,4 @@ View product details including name, price, and description.
 Add products to your shopping cart.
 Review and update the items in your cart.
 Checkout and complete your purchase.
+![Screenshot 2023-10-28 at 23-51-57 Screenshot](https://github.com/Ajaysimha29/Buy-portal/assets/105908381/e848c579-ae20-4b68-a2e2-71396c051dc6)
